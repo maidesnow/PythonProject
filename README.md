@@ -1,2 +1,2 @@
 # PythonProject
-Part of my python school project
+Part of my python school project.
